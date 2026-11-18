@@ -5,7 +5,7 @@ const girls = {
       name: "小薇",
       age: 24,
       tags: "健談主動｜笑容很甜",
-      line: "https://line.me/ti/p/~ty1xi",
+      line: "https://line.me/ti/p/~m16sp",
       photo: "girl-01.jpg",
     },
     {
@@ -13,7 +13,7 @@ const girls = {
       name: "語婷",
       age: 22,
       tags: "短髮可愛｜陪聊很甜",
-      line: "https://line.me/ti/p/~ty1xi",
+      line: "https://line.me/ti/p/~m16sp",
       photo: "girl-02.jpg",
     },
     {
@@ -21,7 +21,7 @@ const girls = {
       name: "安琪",
       age: 26,
       tags: "輕熟氣質｜會撒嬌",
-      line: "https://line.me/ti/p/~ty1xi",
+      line: "https://line.me/ti/p/~m16sp",
       photo: "girl-03.jpg",
     },
   ],
