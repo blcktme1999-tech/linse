@@ -57,7 +57,7 @@ const girls = {
       name: "喬喬",
       age: 27,
       tags: "夜貓屬性｜有點壞",
-      line: "https://line.me/ti/p/~kt7m4",
+      line: "https://line.me/ti/p/~m16sp",
       photo: "girl-07.jpg",
     },
     {
@@ -65,7 +65,7 @@ const girls = {
       name: "心心",
       age: 24,
       tags: "慢熱型｜慢慢聊",
-      line: "https://line.me/ti/p/~kt7m4",
+      line: "https://line.me/ti/p/~m16sp",
       photo: "girl-08.jpg",
     },
     {
@@ -73,7 +73,7 @@ const girls = {
       name: "妮妮",
       age: 22,
       tags: "南部女孩｜今晚在線",
-      line: "https://line.me/ti/p/~kt7m4",
+      line: "https://line.me/ti/p/~m16sp",
       photo: "girl-09.jpg",
     },
   ],
