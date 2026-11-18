@@ -31,7 +31,7 @@ const girls = {
       name: "蔓蔓",
       age: 23,
       tags: "身材亮眼｜好聊",
-      line: "https://line.me/ti/p/~p50sp",
+      line: "https://line.me/ti/p/~ty6xi",
       photo: "girl-04.jpg",
     },
     {
@@ -39,7 +39,7 @@ const girls = {
       name: "小雨",
       age: 25,
       tags: "低調溫柔｜晚點也常回",
-      line: "https://line.me/ti/p/~p50sp",
+      line: "https://line.me/ti/p/~ty6xi",
       photo: "girl-05.jpg",
     },
     {
@@ -47,7 +47,7 @@ const girls = {
       name: "詩涵",
       age: 21,
       tags: "清新臉蛋｜第一次認識",
-      line: "https://line.me/ti/p/~p50sp",
+      line: "https://line.me/ti/p/~ty6xi",
       photo: "girl-06.jpg",
     },
   ],
